@@ -10,7 +10,8 @@ De scripts que resuelven la ecuación cuadrática $ax^2+bx+c$ por medio de la f�
 $$x_{1,2}=-b\pm\frac{\sqrt{b^2-4ac}}{2a}$$
 
 De igual manera, se resuelve el sistema de ecuaciones 2x2 por el método de Crammer
-$$\begin{equation}\begin{align*} ax+by&=&c\\ dx+ey&=&f \end{align*}\end{equation}$$
+$$ ax+by = c $$
+$$ dx+ey = f $$
 
 En el cual se encuentran los determinantes $dg$, $dx$, $dy$, donde
 $$dg = det(G) = ae-bd$$
